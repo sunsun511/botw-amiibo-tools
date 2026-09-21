@@ -1,0 +1,204 @@
+{
+  "target": "BOTW Switch; Archer Link only; table 008",
+  "source_sha256": "6513784d2f49bd2a08647ea8310bd6f1cf9603983ddcef6a57e95b2f9a64765a",
+  "profiles": {
+    "01_core": {
+      "sha256": "9581a2cf0c9b2eac144e699e3a7f30347c8dca75ac296970e1136891866282e7",
+      "compressed_bytes": 3172,
+      "uncompressed_bytes": 5092,
+      "items": {
+        "Weapon_Bow_072": {
+          "name": "黄昏弓",
+          "weight": 25
+        },
+        "Weapon_Lsword_060": {
+          "name": "鬼神大剑",
+          "weight": 20
+        },
+        "Weapon_Lsword_059": {
+          "name": "大鼓隆之剑",
+          "weight": 15
+        },
+        "Armor_225_Head": {
+          "name": "鬼神面具",
+          "weight": 14
+        },
+        "Armor_225_Upper": {
+          "name": "鬼神服",
+          "weight": 13
+        },
+        "Armor_225_Lower": {
+          "name": "鬼神靴",
+          "weight": 13
+        }
+      },
+      "binary_roundtrip": "PASS",
+      "in_game": "NOT_TESTED"
+    },
+    "02_collection": {
+      "sha256": "9853f36cbaa38c6df3f97c93306d904f48899ff3009ad2ce2e980c62798db527",
+      "compressed_bytes": 4384,
+      "uncompressed_bytes": 7456,
+      "items": {
+        "Weapon_Lsword_057": {
+          "name": "六贤者之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_057": {
+          "name": "女神之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_058": {
+          "name": "勇者之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_059": {
+          "name": "海风回旋镖",
+          "weight": 1
+        },
+        "Weapon_Shield_057": {
+          "name": "勇者盾",
+          "weight": 1
+        },
+        "Armor_220_Head": {
+          "name": "希克面罩",
+          "weight": 1
+        },
+        "Armor_181_Head": {
+          "name": "神兽兵装·露塔",
+          "weight": 1
+        },
+        "Armor_182_Head": {
+          "name": "神兽兵装·梅德",
+          "weight": 1
+        },
+        "Armor_183_Head": {
+          "name": "神兽兵装·鲁达尼亚",
+          "weight": 1
+        },
+        "Armor_184_Head": {
+          "name": "神兽兵装·娜波力斯",
+          "weight": 1
+        },
+        "GameRomHorseSaddle_01": {
+          "name": "旅人马鞍",
+          "weight": 1
+        },
+        "GameRomHorseReins_01": {
+          "name": "旅人缰绳",
+          "weight": 1
+        },
+        "Armor_200_Head": {
+          "name": "时之勇者帽子",
+          "weight": 1
+        },
+        "Armor_200_Upper": {
+          "name": "时之勇者衣服",
+          "weight": 1
+        },
+        "Armor_200_Lower": {
+          "name": "时之勇者裤子",
+          "weight": 1
+        },
+        "Armor_205_Head": {
+          "name": "风之勇者帽子",
+          "weight": 1
+        },
+        "Armor_205_Upper": {
+          "name": "风之勇者衣服",
+          "weight": 1
+        },
+        "Armor_205_Lower": {
+          "name": "风之勇者裤子",
+          "weight": 1
+        },
+        "Armor_210_Head": {
+          "name": "黄昏勇者帽子",
+          "weight": 1
+        },
+        "Armor_210_Upper": {
+          "name": "黄昏勇者衣服",
+          "weight": 1
+        },
+        "Armor_210_Lower": {
+          "name": "黄昏勇者裤子",
+          "weight": 1
+        },
+        "Armor_215_Head": {
+          "name": "天空勇者帽子",
+          "weight": 1
+        },
+        "Armor_215_Upper": {
+          "name": "天空勇者衣服",
+          "weight": 1
+        },
+        "Armor_215_Lower": {
+          "name": "天空勇者裤子",
+          "weight": 1
+        },
+        "Armor_230_Head": {
+          "name": "初代勇者帽子",
+          "weight": 1
+        },
+        "Armor_230_Upper": {
+          "name": "初代勇者衣服",
+          "weight": 1
+        },
+        "Armor_230_Lower": {
+          "name": "初代勇者裤子",
+          "weight": 1
+        }
+      },
+      "binary_roundtrip": "PASS",
+      "in_game": "NOT_TESTED"
+    },
+    "03_refill": {
+      "sha256": "35cf7d087aa8e850895afc537ee98746e67af2586c0c8edb00fbceea809dcfd6",
+      "compressed_bytes": 3284,
+      "uncompressed_bytes": 5328,
+      "items": {
+        "Weapon_Bow_072": {
+          "name": "黄昏弓",
+          "weight": 25
+        },
+        "Weapon_Lsword_060": {
+          "name": "鬼神大剑",
+          "weight": 20
+        },
+        "Weapon_Lsword_059": {
+          "name": "大鼓隆之剑",
+          "weight": 15
+        },
+        "Weapon_Lsword_057": {
+          "name": "六贤者之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_057": {
+          "name": "女神之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_058": {
+          "name": "勇者之剑",
+          "weight": 1
+        },
+        "Weapon_Sword_059": {
+          "name": "海风回旋镖",
+          "weight": 1
+        },
+        "Weapon_Shield_057": {
+          "name": "勇者盾",
+          "weight": 1
+        }
+      },
+      "binary_roundtrip": "PASS",
+      "in_game": "NOT_TESTED"
+    }
+  },
+  "in_game_tested": false,
+  "resource_minimums": {
+    "Actor/Pack/Item_Amiibo_DropTable_008.bactorpack": 262144,
+    "Actor/DropTable/Item_Amiibo_DropTable_008.bdrop": 262144,
+    "Actor/AIProgram/RareRewardHubV1.baiprog": 65536,
+    "Actor/ActorLink/Item_Amiibo_DropTable_008.bxml": 16384
+  }
+}

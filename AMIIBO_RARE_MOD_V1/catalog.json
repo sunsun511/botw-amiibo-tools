@@ -1,0 +1,134 @@
+{
+  "Weapon_Bow_072": {
+    "name": "黄昏弓",
+    "core": true
+  },
+  "Weapon_Lsword_060": {
+    "name": "鬼神大剑",
+    "core": true
+  },
+  "Weapon_Lsword_059": {
+    "name": "大鼓隆之剑",
+    "core": true
+  },
+  "Armor_225_Head": {
+    "name": "鬼神面具",
+    "core": true
+  },
+  "Armor_225_Upper": {
+    "name": "鬼神服",
+    "core": true
+  },
+  "Armor_225_Lower": {
+    "name": "鬼神靴",
+    "core": true
+  },
+  "Weapon_Lsword_057": {
+    "name": "六贤者之剑",
+    "core": false
+  },
+  "Weapon_Sword_057": {
+    "name": "女神之剑",
+    "core": false
+  },
+  "Weapon_Sword_058": {
+    "name": "勇者之剑",
+    "core": false
+  },
+  "Weapon_Sword_059": {
+    "name": "海风回旋镖",
+    "core": false
+  },
+  "Weapon_Shield_057": {
+    "name": "勇者盾",
+    "core": false
+  },
+  "Armor_220_Head": {
+    "name": "希克面罩",
+    "core": false
+  },
+  "Armor_181_Head": {
+    "name": "神兽兵装·露塔",
+    "core": false
+  },
+  "Armor_182_Head": {
+    "name": "神兽兵装·梅德",
+    "core": false
+  },
+  "Armor_183_Head": {
+    "name": "神兽兵装·鲁达尼亚",
+    "core": false
+  },
+  "Armor_184_Head": {
+    "name": "神兽兵装·娜波力斯",
+    "core": false
+  },
+  "GameRomHorseSaddle_01": {
+    "name": "旅人马鞍",
+    "core": false
+  },
+  "GameRomHorseReins_01": {
+    "name": "旅人缰绳",
+    "core": false
+  },
+  "Armor_200_Head": {
+    "name": "时之勇者帽子",
+    "core": false
+  },
+  "Armor_200_Upper": {
+    "name": "时之勇者衣服",
+    "core": false
+  },
+  "Armor_200_Lower": {
+    "name": "时之勇者裤子",
+    "core": false
+  },
+  "Armor_205_Head": {
+    "name": "风之勇者帽子",
+    "core": false
+  },
+  "Armor_205_Upper": {
+    "name": "风之勇者衣服",
+    "core": false
+  },
+  "Armor_205_Lower": {
+    "name": "风之勇者裤子",
+    "core": false
+  },
+  "Armor_210_Head": {
+    "name": "黄昏勇者帽子",
+    "core": false
+  },
+  "Armor_210_Upper": {
+    "name": "黄昏勇者衣服",
+    "core": false
+  },
+  "Armor_210_Lower": {
+    "name": "黄昏勇者裤子",
+    "core": false
+  },
+  "Armor_215_Head": {
+    "name": "天空勇者帽子",
+    "core": false
+  },
+  "Armor_215_Upper": {
+    "name": "天空勇者衣服",
+    "core": false
+  },
+  "Armor_215_Lower": {
+    "name": "天空勇者裤子",
+    "core": false
+  },
+  "Armor_230_Head": {
+    "name": "初代勇者帽子",
+    "core": false
+  },
+  "Armor_230_Upper": {
+    "name": "初代勇者衣服",
+    "core": false
+  },
+  "Armor_230_Lower": {
+    "name": "初代勇者裤子",
+    "core": false
+  }
+}

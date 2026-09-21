@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tools_lib/
+tests/run_*/
+tests/owned_*/
+*.zip

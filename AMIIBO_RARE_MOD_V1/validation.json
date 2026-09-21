@@ -1,0 +1,20 @@
+{
+  "01_core": "PASS: all six progression/hit branches contain only the intended whitelist",
+  "02_collection": "PASS: all six progression/hit branches contain only the intended whitelist",
+  "03_refill": "PASS: all six progression/hit branches contain only the intended whitelist",
+  "dry_run": "PASS: no writes",
+  "rstb_merge": "PASS: unrelated entries/name table preserved; independent oead decoder accepts output",
+  "phase_switch": "PASS",
+  "restore": "PASS: byte-identical original RSTB; only added actorpack removed",
+  "reinstall_after_restore": "PASS",
+  "external_edit_guard": "PASS: refuses overwrite after external change",
+  "live_files": "PASS: original resources unchanged",
+  "in_game": "NOT RUN; no Deck connection and local save lacks usable amiibo progress",
+  "test_directory": "C:\\Users\\17336\\Downloads\\draw\\AMIIBO_RARE_MOD_V1\\tests\\run_1789960266013551300",
+  "owned_list_checks": {
+    "core": "PASS: exact expected remaining pool",
+    "collection": "PASS: exact expected remaining pool",
+    "refill": "PASS: exact expected remaining pool",
+    "invalid_id": "PASS: rejected without package creation"
+  }
+}

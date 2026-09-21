@@ -1,0 +1,244 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 70,
+      "sha256": "72389d8f9a3e1fac4438ef6f34bc5897733e1fd5d0eccf142300af0f5aaa7406",
+      "git_blob_sha": "3427a765484ba66e494c45740af62d684814620d"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/build_mod.py",
+      "bytes": 10076,
+      "sha256": "8891c3b63a547fb5914fc9da91f46c83e2f5b48110b09f375a0b5923df0d0d22",
+      "git_blob_sha": "5b4e8bf6cd4d850b01c562644ed6c8fd75b72af2"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/catalog.json",
+      "bytes": 2580,
+      "sha256": "dc5e979db0deb76c5ac2b1087c4f6f7470ecd57d5fb89b72cc463e459df520c6",
+      "git_blob_sha": "80a807ac63db0c9e840d9f95234060f9ca0716fc"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/amiibo/rare_hub_archer.bin",
+      "bytes": 540,
+      "sha256": "dbcf0ffd8c1aba7cbdd56c1ecf7fca19827263a181742566f406cdcbcf1df689",
+      "git_blob_sha": "eb9f727500bdb7faff74220647d9c67b7aa3f334"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/amiibo/summon_epona_tp.bin",
+      "bytes": 540,
+      "sha256": "3fdca4cd57e4df4d2ac4576fee9e45fc13984029c7d969a5d6067cc4b24db9e8",
+      "git_blob_sha": "56a6249df159dc007137d0fb821bf89a19648250"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/amiibo/summon_wolf_link.bin",
+      "bytes": 540,
+      "sha256": "6368e666fda71c70d786352103ab7238df66e1f328fc068ebff0849250a9fb12",
+      "git_blob_sha": "b7c60ba9f1ec2a2b19a876dec2c1bf4e301fa1d8"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/install.py",
+      "bytes": 7452,
+      "sha256": "ccd7f07258ddecac6a3596548fc81bad337032be2b80b36b71da5ad8df516d00",
+      "git_blob_sha": "db7c868c90f62d6719eb47e3b56817c0b3118dce"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/manifest.json",
+      "bytes": 5359,
+      "sha256": "2d89cf48472ae1c6573af13f9904d1b11ff61c789feecd5ab483d1f82b1f170e",
+      "git_blob_sha": "baa5790e6a558b5548b2daea1657158468b826d2"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/profiles/01_core/romfs/Actor/Pack/Item_Amiibo_DropTable_008.sbactorpack",
+      "bytes": 3172,
+      "sha256": "9581a2cf0c9b2eac144e699e3a7f30347c8dca75ac296970e1136891866282e7",
+      "git_blob_sha": "8094419e68b34c3590909784131cece4b614df0e"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/profiles/02_collection/romfs/Actor/Pack/Item_Amiibo_DropTable_008.sbactorpack",
+      "bytes": 4384,
+      "sha256": "9853f36cbaa38c6df3f97c93306d904f48899ff3009ad2ce2e980c62798db527",
+      "git_blob_sha": "ff555deb1ffdcb6fd3759374d58284f6c4f9c798"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/profiles/03_refill/romfs/Actor/Pack/Item_Amiibo_DropTable_008.sbactorpack",
+      "bytes": 3284,
+      "sha256": "35cf7d087aa8e850895afc537ee98746e67af2586c0c8edb00fbceea809dcfd6",
+      "git_blob_sha": "e9659bfae46c6427ec9bfd39531d8d3d87580858"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/DECK_TRANSFER/先看这里.md",
+      "bytes": 5324,
+      "sha256": "85e0e77fa5c376c19fb445a75a17bec8b6335f300b5a9cf636cbe80c3a2db8b0",
+      "git_blob_sha": "0cbd01c80a941cfce886b3ff6f9629a273929f20"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/owned.example.json",
+      "bytes": 21,
+      "sha256": "9d91081d9f3ce273ebcffa4e41da91487c966eea34c602639bf60a9fe120485e",
+      "git_blob_sha": "3011c82fa079960956d7ea38ce2c1b7fef5d6439"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/README.md",
+      "bytes": 3990,
+      "sha256": "f211b1407db06ae813b4c291396bc4ba2d944b5263b2449b743262e05bdc1f22",
+      "git_blob_sha": "f0c464b0017d12286ed17737494a044c6b6d21dc"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_001.sbactorpack",
+      "bytes": 3288,
+      "sha256": "6513784d2f49bd2a08647ea8310bd6f1cf9603983ddcef6a57e95b2f9a64765a",
+      "git_blob_sha": "8edb24a5b1ee8777e79610bd73f25d99e05ced2d"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_002.sbactorpack",
+      "bytes": 3319,
+      "sha256": "0a79f277d3172cefb6b08ebb729dbbdb69c07ae2a8f4a93cb4ac1bae5b66f804",
+      "git_blob_sha": "81712648e6511883b0ba978d18ba73e20e1e806e"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_003.sbactorpack",
+      "bytes": 3151,
+      "sha256": "249b6e3601a0b3d76ffd29692d85f421010daf829c2ad53b1e1921d9681fc404",
+      "git_blob_sha": "af8c6dcdfee2e4e87a8b61a41982623dfe5feda4"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_007.sbactorpack",
+      "bytes": 3252,
+      "sha256": "bf022ca172157359b1c85151588ed71cfbd15d1be78b9bee2e97bfc4c902a724",
+      "git_blob_sha": "f20d5931a03b8838a45a5a41e207a16db9326e46"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_009.sbactorpack",
+      "bytes": 3255,
+      "sha256": "ca4d60d3f145be137b9e178bc60a7f38fda39f52a640decce04612ba84345ac0",
+      "git_blob_sha": "7a78e0e12b7b85ff0a9244a3fedde55e004f9d5b"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_012.sbactorpack",
+      "bytes": 3076,
+      "sha256": "795b553fb74f609abd897cb5740290fe39808c8f326323dd26bd7cbfcba88a85",
+      "git_blob_sha": "6023b49dc7786e8e8d6270a04fb8e006b173784d"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_013.sbactorpack",
+      "bytes": 3191,
+      "sha256": "c6ffe1a317ce4c98942f45f706072f5535910fc15596d1ee354ede5d4201a710",
+      "git_blob_sha": "c0ab777cdb12e67f8f5a7b0bd4b9dd958f23bc1a"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_014.sbactorpack",
+      "bytes": 3189,
+      "sha256": "eb3fa045a95f71b2cc883fffe3244f4688a008bd412da9cae68c5d9b4e96bb8f",
+      "git_blob_sha": "fd19007422ddf7f7f131f4caf0b3a530d3b857ec"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_015.sbactorpack",
+      "bytes": 3131,
+      "sha256": "7fdaea51f19323ab5a58edea566524dccc9704854a8ac12167a20dc6d460c56e",
+      "git_blob_sha": "10d7fb6a23e407886be0b9c77a858fa9b14a97eb"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_018.sbactorpack",
+      "bytes": 3146,
+      "sha256": "4d0bd466f649e161aa456393f40ff484f94de0030632a2dfa5163485a234f277",
+      "git_blob_sha": "e9053f346ab1750fc0bd4e722b8cc7e3f874ae8e"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_019.sbactorpack",
+      "bytes": 3298,
+      "sha256": "1755468d144d051b003b76820cf8733fa1d8d4146cf725f30c86ce75591bd0b7",
+      "git_blob_sha": "ef6c68961d836db5319e6d63d0fe9f2fa18d4ad6"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_020.sbactorpack",
+      "bytes": 3346,
+      "sha256": "43841df6267edac3bf0d89b3da5c05e38df6d34ba0290acd44bdfa3f88603816",
+      "git_blob_sha": "d741c25057859feb73d491bd43126edae95aef93"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_021.sbactorpack",
+      "bytes": 3150,
+      "sha256": "f7c39a3194a09ef040a97e2aeff5efc179d6dcb413eb31d67c19825b4182fdd2",
+      "git_blob_sha": "55c1796cb683ab44fe1d4a0c605f2d676dc2a564"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_022.sbactorpack",
+      "bytes": 3142,
+      "sha256": "19f962cd3bb7d3c802d6ce5d49aa46a0261c630e0708d6ff32d3821341721a53",
+      "git_blob_sha": "e103ee8f0371e0f9c54d8fb72db1169ace590f83"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/Actor/Pack/Item_Amiibo_DropTable_023.sbactorpack",
+      "bytes": 3346,
+      "sha256": "0344579eba1b38944ab9f83974a774a1142b950b2fff00166b167fb5971dd98f",
+      "git_blob_sha": "5eed8605727c4dd1d38da541726f4babe8e02c47"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/source_romfs/System/Resource/ResourceSizeTable.product.srsizetable",
+      "bytes": 471431,
+      "sha256": "17724501a91b3afcc1fc3aefac064baba94f5ef07916d7ee9ebcea6b8eabecb7",
+      "git_blob_sha": "041c2cc97cecb2eededb478de630d89bd21c37a7"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/test_mod.py",
+      "bytes": 3263,
+      "sha256": "e6c08b78d001f4f62c46868a4d4fa847b5cdedf2ad5357fa734f9e8473abcd61",
+      "git_blob_sha": "de80992aed0be2a47c45390c87d3159c7309dd4a"
+    },
+    {
+      "path": "AMIIBO_RARE_MOD_V1/validation.json",
+      "bytes": 1161,
+      "sha256": "3443cbbdeaafed77d992e6015a2886c81fd3d7854b662564a8b298719e5cab7d",
+      "git_blob_sha": "211efc19252450aaf7d4d27b76155f108cca2109"
+    },
+    {
+      "path": "AMIIBO_TEST_V1/generate_test.py",
+      "bytes": 4351,
+      "sha256": "d5fc99733334d3caf72ca8decdb27c2e81eaf88c3470429c29ed7d028281ba39",
+      "git_blob_sha": "653a69b4d2d5ad7edcf0c8ab5669c5b2dd5ee8b3"
+    },
+    {
+      "path": "AMIIBO_TEST_V1/link_archer_plain_test.bin",
+      "bytes": 540,
+      "sha256": "dbcf0ffd8c1aba7cbdd56c1ecf7fca19827263a181742566f406cdcbcf1df689",
+      "git_blob_sha": "eb9f727500bdb7faff74220647d9c67b7aa3f334"
+    },
+    {
+      "path": "AMIIBO_TEST_V1/README.md",
+      "bytes": 2534,
+      "sha256": "a18f154f7c7e86fdb131619bb8751f4878f8ee6cc5ce1a8080313583915d2767",
+      "git_blob_sha": "dcd7fb72e954ec03bac31d1016fcf87ab3ee59f1"
+    },
+    {
+      "path": "AMIIBO_TEST_V1/validation.json",
+      "bytes": 1136,
+      "sha256": "db0635162622e58f728eb996cedcdd9a9f362a2756d107eb7bbc641d70b5103e",
+      "git_blob_sha": "fc4c84f135fda4d2ce05f1a7fc603c6393b81c84"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2518,
+      "sha256": "0dfcbfdcbd516a6f7dfcbc85d528ed8364f0670f61fa44d88efa65cf839054a1",
+      "git_blob_sha": "fdf2a326d646e1fe5e64da6bfe4bce3c6b1857c0"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 19,
+      "sha256": "44bf4ca21fb9aadf431e4f41f795ea88c73c34c0ef1c70a46cc3884d52223a0f",
+      "git_blob_sha": "20f393856d0e40d84d8f982a677cde65342ff825"
+    }
+  ],
+  "user_test": "2026-09-21 Deck core scan produced Fierce Deity Sword",
+  "excluded": [
+    "game saves",
+    "emulator configuration",
+    "logs",
+    "keys",
+    "firmware",
+    "game image",
+    "dependency binaries",
+    "temporary tests",
+    "duplicate zip"
+  ]
+}

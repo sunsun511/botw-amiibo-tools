@@ -1,0 +1,21 @@
+{
+  "file": "link_archer_plain_test.bin",
+  "bytes": 540,
+  "sha256": "dbcf0ffd8c1aba7cbdd56c1ecf7fca19827263a181742566f406cdcbcf1df689",
+  "identity": "Link - Archer",
+  "model_id": "0100000003530902",
+  "format": "plain NTAG215File (emulator internal layout), NOT physical NFC layout",
+  "structure_checks": "PASS; length + 8 corruption cases rejected",
+  "registration": "not initialized; no owner Mii or application area",
+  "suyu_target": "dev-0de49070e4 (2024-04-10)",
+  "suyu_exact_source_verified": false,
+  "in_game_test": "NOT RUN: user Steam Deck required",
+  "retail_keys_used": false,
+  "sources": [
+    "https://raw.githubusercontent.com/eden-emulator/mirror/master/src/core/hle/service/nfp/nfp_types.h",
+    "https://raw.githubusercontent.com/eden-emulator/mirror/master/src/core/hle/service/nfc/common/amiibo_crypto.cpp",
+    "https://raw.githubusercontent.com/eden-emulator/mirror/master/src/core/hle/service/nfc/common/device.cpp",
+    "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/database/amiibo.json",
+    "https://yuzu-mirror.github.io/entry/yuzu-progress-report-mar-2023/"
+  ]
+}
